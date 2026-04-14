@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vishnu 👋
 
-<!--
-**vichu2k7/vichu2k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Learning Python, Git & Development  
+🚀 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Beginner)
+- Git & GitHub (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+- Machine Learning
+- Problem Solving
+- Git & Projects
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/vichus
